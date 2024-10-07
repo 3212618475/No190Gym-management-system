@@ -43,8 +43,6 @@ web框架：SpringBoot
 
 四、项目截图
 ---
-文档截图
-![](limage/1.png)
 使用截图
 ![](image/1.png)
 ![](image/2.png)
